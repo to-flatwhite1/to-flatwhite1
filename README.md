@@ -10,8 +10,7 @@
   
   ## 👀 About Me
   ####  Hi I am Yeji ahn 👋
-  <br/>
-  <br/>
+
   
   ## 🧱 Tech Stack
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -27,7 +26,6 @@
 ![REDUX](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 )
 
-
 ![NODE.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NEXT.JS](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge
 )
@@ -38,8 +36,7 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
   <!--MySQL-->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <br/>
-  <br/>
+
   
   ## 🤔 Github Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=to-flatwhite1)
