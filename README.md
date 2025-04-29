@@ -32,6 +32,6 @@
   <br/>
   <br/>
 
-  <h2>🤔 GitHub Stats</h2>
+  <h2>:running: GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=to-flatwhite1" alt="GitHub stats"/>
 </div>
