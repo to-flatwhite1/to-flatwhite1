@@ -1,5 +1,8 @@
 ## Hi there 👋
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+
 
 <!--
 **to-flatwhite1/to-flatwhite1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
