@@ -9,7 +9,7 @@
   <!--Body-->
   
   ## 👀 About Me
-  ## Hi I am Yeji ahn 👋
+  #### : Hi I am Yeji ahn 👋
   #### :raising_hand: I am a front-end developer from South Korea.<br/>
   #### :fire: I aim to become a front-end developer.<br/>
   <br/>
